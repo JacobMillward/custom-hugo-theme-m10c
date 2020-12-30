@@ -1,8 +1,8 @@
-name = "m10c"
+name = "jacob"
 license = "MIT"
-licenselink = "https://github.com/vaga/hugo-theme-m10c/blob/master/LICENSE.md"
-description = "A minimalistic (m10c) theme for bloggers"
-homepage = "https://github.com/vaga/hugo-theme-m10c"
+licenselink = "https://github.com/jacobmillward/custom-hugo-theme-m10c/blob/master/LICENSE.md"
+description = "Custom theme based on m10c (https://github.com/vaga/hugo-theme-m10c)"
+homepage = "https://github.com/jacobmillward/custom-hugo-theme-m10c"
 tags = ["blog", "minimalistic", "minimal", "responsive", "dark"]
 features = [
   "minimalistic blog",
@@ -12,6 +12,6 @@ features = [
 min_version = 0.55
 
 [author]
-  name = "vaga"
-  homepage = "https://vaga.io"
+  name = "Jacob Millward"
+  homepage = "https://jacob.millward.dev"
 
